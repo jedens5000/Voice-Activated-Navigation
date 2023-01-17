@@ -35,6 +35,10 @@ h1 {
   margin-bottom: 1rem;
 }
 
+p {
+  margin: 1rem;
+}
+
 #transcript {
   margin-bottom: 1rem;
   font-size: 1.5rem;
